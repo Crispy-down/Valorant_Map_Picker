@@ -1,0 +1,47 @@
+# 발로란트 맵 선택 ( VCT RULE ) 프로그램 Version : 0.1
+사용법 :
+'dist'폴더 안 'Valorant_Map_Selector.exe'를 실행 해주세요!
+
+* 기본적으로 맨 위 상태창을 클릭시 다음 단계로 넘어갑니다.
+
+순서는
+#0. Click Here to Start
+#1. "RED TEAM BAN PICK",
+#2. "BLUE TEAM BAN PICK" ,
+#3. "RED TEAM FIRST MAP PICK",
+#4. "BLUE TEAM SELECT SIDE" ,
+#5. "BLUE TEAM FIRST MAP PICK",
+#6. "RED TEAM SELECT SIDE" ,
+#7. "RED TEAM SECOND BAN PICK",
+#8. "BLUE TEAM SECOND BAN PICK",
+#9. "RED TEAM LAST MAP SELECT SIDE " 
+#10. 선정된 맵 알람창에 표시 및 종료
+
+
+Team A 밴 픽 1 
+Team B 밴 픽 1 
+
+Team A 맵 픽 1 
+Team B 공수 선정( 맵 픽 1에 대한 ) 
+
+Team B 맵 픽 1 
+Team A 공수 선정( 맵 픽 2에 대한 ) 
+
+Team A 밴 픽 1 
+Team B 밴 픽 1 
+남은 맵 하나 ( -2 -1 -1 -2 => 6 , 맵 7개 기준 )
+Team A 공수 선정 
+
+맵 : 스플릿 / 헤이븐 / 어센트 / 아이스박스 / 프랙처 / 펄 / 로터스 * 7개
+제외 : 브리즈 / 바인드
+
+CREDIT :
+동아대학교 GameCrew
+Developer : 권건우
+UI/UX Designer : 장효원
+Image Editor : 고민수
+Image Source Offer : 박재만
+Project Mananger : 김민경
+Idea Provider : 조중현
+
+
